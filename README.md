@@ -28,6 +28,33 @@ Smart rainwater harvesting and monitoring system based on STM32.
 - KiCad
 - GitHub
 
+## Current Version
+
+🟢 V1.0 – HC-SR04 distance measurement working
+
+## Progress
+
+| Feature | Status |
+|----------|---------|
+| STM32 setup | ✅ |
+| UART communication | ✅ |
+| TIM2 microsecond timer | ✅ |
+| HC-SR04 integration | ✅ |
+| Distance measurement | ✅ |
+| Water level calculation | ⏳ |
+| Tank volume calculation | ⏳ |
+| DS18B20 support | ⏳ |
+| LCD display | ⏳ |
+| Data logging | ⏳ |
+| WiFi monitoring | ⏳ |
+
+## Latest Achievement
+
+- USART1 debugging via USB-TTL
+- TIM2 configured for 1 µs resolution
+- HC-SR04 ultrasonic sensor operational
+- Distance displayed in PuTTY terminal
+
 ## Project Status
 
-🟡 Planning
+🟢 Development in progress
