@@ -1,0 +1,18 @@
+# Build output
+Debug/
+Release/
+
+# STM32CubeIDE temp files
+RemoteSystemsTempFiles/
+
+# Backup files
+*.bak
+*BACKUP*
+*copy*
+
+# Logs
+*.log
+
+# OS files
+Thumbs.db
+Desktop.ini
